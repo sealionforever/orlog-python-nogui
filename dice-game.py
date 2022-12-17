@@ -1,10 +1,6 @@
 # Needed to create random numbers to simulate dice roll
 import random
 
-# Initialise player scores to 0
-player1_score = 0
-player2_score = 0
-
 # Initialise player health to 20
 player1_health = 20
 player2_health = 20
